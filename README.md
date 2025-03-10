@@ -30,6 +30,6 @@ git clone https://github.com/ArifKemal/Basic-Web-Search.git
 cd Basic-Web-Search
 ```
 ### Running
-```
+```bash
 # Open terminal in vscode and type
 web-search.py
