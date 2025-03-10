@@ -13,6 +13,7 @@ A real-time AI-powered Q&A application using Google Gemini and DuckDuckGo integr
 ## Quick Start
 
 ### Prerequisites
+- Replace API key with your own GEMINI API key
 - Python 3.8+
 - Google API Key ([Get Yours](https://aistudio.google.com/app/apikey))
 
@@ -25,5 +26,5 @@ A real-time AI-powered Q&A application using Google Gemini and DuckDuckGo integr
 pip install gradio google-generativeai duckduckgo-search
 
 # Clone repository
-git clone https://github.com/yourusername/web-research-assistant.git
-cd web-research-assistant
+git clone https://github.com/ArifKemal/Basic-Web-Search.git
+cd Basic-Web-Search
