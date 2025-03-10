@@ -28,3 +28,8 @@ pip install gradio google-generativeai duckduckgo-search
 # Clone repository
 git clone https://github.com/ArifKemal/Basic-Web-Search.git
 cd Basic-Web-Search
+```
+### Running
+```
+# Open terminal in vscode and type
+web-search.py
