@@ -3,7 +3,7 @@ import google.generativeai as genai
 from duckduckgo_search import DDGS
 
 # API AYARLARI
-API_KEY = "AIzaSyAbeam1Rufcc1qQcstNxT6nM_Gk6cehlxU"  # Google AI Studio'dan alınan geçerli anahtar
+API_KEY = "API KEY"  # Google AI Studio'dan alınan geçerli anahtar
 MODEL_NAME = "gemini-2.0-flash"     # Güncel model 
 
 
